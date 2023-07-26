@@ -1,1 +1,1 @@
-# solar-systam
+# PRO-C146-Student-Activity
